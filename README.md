@@ -1,5 +1,4 @@
 # Curso de Inteligencia de Negocios
-## Proyecto EduBI Chile
 
 Repositorio del curso **Inteligencia de Negocios**, centrado en el desarrollo de una solución de Business Intelligence utilizando datos abiertos del sistema educativo chileno.
 

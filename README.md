@@ -23,9 +23,9 @@ Open Educational Resource (OER) for Business Intelligence courses.
   Metadatos para citar este repositorio académico.
 
 ## Flujo del curso
-
+El curso sigue una progresión desde la gestión de datos hasta la visualización analítica y la introducción a técnicas de minería de datos. El siguiente diagrama resume el flujo de contenidos y evaluaciones del semestre.
 ```mermaid
-flowchart LR
+flowchart TD
 
 A[Introduccion a BI] --> B[Gestion y almacenamiento de datos]
 

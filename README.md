@@ -1,5 +1,7 @@
 # Curso de Inteligencia de Negocios
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18967207.svg)](https://doi.org/10.5281/zenodo.18967207)
+
 Repositorio del curso **Inteligencia de Negocios**, centrado en el desarrollo de una solución de Business Intelligence utilizando datos abiertos del sistema educativo chileno.
 
 El curso se organiza en torno un proyecto aplicado, cuyo objetivo es construir un sistema de análisis de matrícula escolar mediante técnicas de BI.

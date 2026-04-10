@@ -16,7 +16,7 @@ En la sesión anterior se implementó un proceso de tipo **E-L (Extract - Load)*
 
 Sin embargo, en entornos reales de Business Intelligence, mover datos no es suficiente.
 
-Tal como se plantea en el material de la sesión, **el valor del BI no está en mover datos, sino en estructurarlos para responder preguntas** :contentReference[oaicite:1]{index=1}
+Tal como se plantea en el material de la sesión, **el valor del BI no está en mover datos, sino en estructurarlos para responder preguntas**
 
 Esto implica:
 
@@ -45,7 +45,7 @@ Sin embargo, desde una perspectiva analítica:
 - La información está fragmentada  
 - No facilita visualización ni interpretación  
 
-👉 En otras palabras: **los datos existen, pero no responden preguntas de negocio** :contentReference[oaicite:2]{index=2}
+En otras palabras: **los datos existen, pero no responden preguntas de negocio**
 
 ---
 

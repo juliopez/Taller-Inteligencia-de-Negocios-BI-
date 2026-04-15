@@ -80,7 +80,7 @@ A partir de esta comparación, se decide:
 - Se construye una consulta con joins  
 - Se obtienen todos los atributos necesarios  
 
-👉 Representa la “realidad actual”
+> Representa la “realidad actual”
 
 ---
 
@@ -89,7 +89,7 @@ A partir de esta comparación, se decide:
 - Se consulta el Data Warehouse  
 - Solo se extrae la Primary Key (EmployeeID)  
 
-👉 Representa lo que ya fue cargado anteriormente
+> Representa lo que ya fue cargado anteriormente
 
 ---
 
@@ -100,7 +100,7 @@ Antes de comparar los datos:
 - Ambos flujos deben ordenarse por EmployeeID  
 - Orden ascendente  
 
-⚠️ Este paso es obligatorio para el funcionamiento del Merge Join  
+> Este paso es obligatorio para el funcionamiento del Merge Join  
 
 ---
 
@@ -132,7 +132,7 @@ Interpretación:
 - Si EmployeeID1 es NULL → el registro NO existe en el destino  
 - Si tiene valor → ya existe  
 
-👉 Se crea un flujo llamado:
+> Se crea un flujo llamado:
 
 **"Registros nuevos"**
 
@@ -161,7 +161,7 @@ Ejemplo:
 - Registros existentes: 42  
 - Registros nuevos: 7  
 
-👉 Solo se cargan los 7 nuevos  
+> Solo se cargan los 7 nuevos  
 
 ---
 
@@ -179,7 +179,7 @@ Este ejercicio incorpora:
 
 Esta sesión introduce un concepto fundamental en BI:
 
-👉 **El ETL no solo transforma datos, también decide qué datos procesar**
+**El ETL no solo transforma datos, también decide qué datos procesar**
 
 Esto marca el paso desde un enfoque técnico hacia uno más analítico y estratégico.
 
